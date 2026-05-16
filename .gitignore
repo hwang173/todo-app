@@ -1,0 +1,50 @@
+# Build and runtime outputs
+/backend/**/bin/
+/backend/**/obj/
+/backend/**/Debug/
+/backend/**/Release/
+/frontend/todo-ui/dist/
+/frontend/todo-ui/.angular/
+/frontend/todo-ui/out-tsc/
+
+# Dependencies
+/backend/**/node_modules/
+/frontend/todo-ui/node_modules/
+package-lock.json
+
+# IDE and Editor
+.vs/
+.vscode/
+.idea/
+*.code-workspace
+*.sln.docstates
+*.user
+*.suo
+*.userprefs
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Testing
+coverage/
+.nyc_output/
+
+# Temporary files
+*.bak
+*.tmp
+*.swp
+*~
