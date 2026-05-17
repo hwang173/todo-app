@@ -15,6 +15,12 @@ A simple full-stack TODO application built with Angular and .NET Web API.
 
 ---
 
+# Test
+
+Complete testing documentation is available in [TESTS.md](./TESTS.md)
+
+---
+
 # Tech Stack
 
 ## Frontend
